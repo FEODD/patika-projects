@@ -1,2 +1,1 @@
-# patika-projects
-patika.dev
+## www.patika.dev
