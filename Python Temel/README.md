@@ -34,3 +34,6 @@ print(l3)
 ```
 >İlk olarak liste içerisindeki elemanların türlerine bakmadan geriye doğru sıralanıyor. Sıralamadan sonra "for" komutu ile yeni listenin içerisindeki listeler kendi içlerinde
 >sıralanıyorlar en sonunda ise liste bastırılıyor
+
+
+# www.patika.dev
