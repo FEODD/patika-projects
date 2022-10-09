@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(255, 210, 151);
+}
+
+#article {
+    margin-left: 10%;
+}
+
+#content {
+    
+    width: 60%;
+  }
+
+#content-head {
+    color: red;
+}
+
+#footer {
+    margin-left: 70%;
+}
+
+#text-background {
+    background-color: brown;
+    border-radius: 10px;
+    color: white;
+}
